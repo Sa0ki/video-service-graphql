@@ -1,0 +1,7 @@
+input VideoRequest{
+    title: String,
+    url: String,
+    description: String,
+    createdAt: String,
+    creator: CreatorRequest
+}

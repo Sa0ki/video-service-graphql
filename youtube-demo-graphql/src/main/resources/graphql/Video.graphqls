@@ -1,0 +1,8 @@
+type Video{
+    id: Float,
+    title: String,
+    url: String,
+    description: String,
+    createdAt: String,
+    creator: Creator
+}
